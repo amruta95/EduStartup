@@ -1,2 +1,3 @@
-# EduStartup
-TechAdemy - Frontend design for an EduTech startup which provides online doubt solving facilities to local school students in their local languages.
+TechAdemy - Front page of an EduTech startup which provides online doubt solving facilities to local school students in their local languages.
+
+https://ap-2107.github.io/ET/
